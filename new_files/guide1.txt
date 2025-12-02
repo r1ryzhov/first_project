@@ -1,0 +1,3 @@
+The first guide file of the project:
+1. ...
+2. Nowhere talk nothing about the project. 
